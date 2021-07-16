@@ -1,8 +1,13 @@
 # git-cheatsheet
+
 Dwsclassdws-dev-1- Exercise Solving Exercise 4 
+
 Objective: Education about GIT
+
 How to use: Read related questions and answers
+
 Collaboration: Please send your comments to my email mohsen@ghadamyari.net
+
 
 1) Why do we use version control tools like GIT?
 GIT is the most common version control system in the world for tracking text file changes. GIT gives us the ability to control files and provide information on how to change files. That is, in a change made to a file, it can say exactly what has changed and who made it, and when. Using the gate, we can manage and control the process of updating and changes in project files among programmers during the project time.
