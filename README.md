@@ -76,9 +76,11 @@ We use brunch to add a new feature to the program or fix existing bugs.
 Suppose a search brunch is created to add the search feature. We use one of the following methods to integrate:
 
 git checkout master
+
 git merge master search
 
 Or, another way to integrate branches is to use rebase:
 
 git checkout master
+
 git rebase master search
